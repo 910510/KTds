@@ -2,9 +2,9 @@ import streamlit as st
 import openai
 
 # Azure OpenAI 설정
-AZURE_OPENAI_ENDPOINT = "https://helloaioffice-openai-001.openai.azure.com/"
-AZURE_OPENAI_API_KEY = "CZl2l4DVafYUxZ9jhMcsda24RgNDw6M84llGhZM5gYvCoikoRzKpJQQJ99BEACfhMk5XJ3w3AAABACOGW7KN"
-DEPLOYMENT_NAME = "gpt-4o-mini3"
+AZURE_OPENAI_ENDPOINT = "<YOUR_AZURE_OPENAI_ENDPOINT>"  # 예: "https://your-resource-name.openai.azure.com/"
+AZURE_OPENAI_API_KEY = "<YOUR_AZURE_OPENAI_API_KEY>"  # Azure OpenAI API 키
+DEPLOYMENT_NAME = "<YOUR_DEPLOYMENT_NAME>"  # Azure OpenAI에서 배포한 모델 이름
 
 # OpenAI 라이브러리 초기화
 openai.api_type = "azure"
