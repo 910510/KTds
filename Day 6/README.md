@@ -7,3 +7,4 @@
 01. [Lab 4> 인덱스 검색](./ai_search/lab_04.md)
 01. [Lab 5> AI Skillset을 이용한 인덱스 생성](./ai_search/lab_05.md)
 01. [Lab 6> 검색 클라이언트 응용 프로그램 만들기](./ai_search/lab_06.md)
+01. [Azure App Service를 사용하여 웹 애플리케이션 호스트](https://learn.microsoft.com/ko-kr/training/modules/host-a-web-app-with-azure-app-service/)
