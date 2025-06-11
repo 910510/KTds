@@ -5,6 +5,7 @@
 
 .env 
 
+```
 OPENAI_ENDPOINT="https://winkey-openai-002.openai.azure.com/"
 OPEAAI_API_KEY="5U3CaSzVUiRDVvuBED839mzEibplRXFjPQQFk2Ns4clh3dWCiSnVJQQJ99BFACYeBjFXJ3w3AAABACOGd5Ak"
 CHAT_MODEL="gpt-4.1-mini"
@@ -12,3 +13,4 @@ EMBEDDING_MODEL="dev-text-embedding-3-small"
 SEARCH_ENDPOINT="https://winkey-ai-search-001.search.windows.net"
 SEARCH_API_KEY="7wSewKKZiEvaTzgrfouFqj6v6Qtjh2LvwTpKrmIUpVAzSeCxnfCA"
 INDEX_NAME="ktds-index"
+```
