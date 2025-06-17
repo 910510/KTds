@@ -13,7 +13,7 @@
 
 [MVP](./MVP/)
 
-[MVP 참고자료](./MVP/QnA/00.CSV_in_AazureAISearch.md)
+[MVP 참고자료](./MVP/QnA.md)
 
 # 참고 자료 
 [Git 강좌](https://www.youtube.com/watch?v=JZJQ4_8XoPM&list=PLHF1wYTaCuixewA1hAn8u6hzx5mNenAGM)
