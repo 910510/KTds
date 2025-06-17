@@ -13,6 +13,8 @@
 
 [MVP](./MVP/)
 
+[MVP 참고자료](./MVP/QnA/00.CSV_in_AazureAISearch.md)
+
 # 참고 자료 
 [Git 강좌](https://www.youtube.com/watch?v=JZJQ4_8XoPM&list=PLHF1wYTaCuixewA1hAn8u6hzx5mNenAGM)
 
@@ -20,5 +22,7 @@
 
 
 연락처 김영욱 youngwook@outlook.com
+
+
 
 제안서 [참고 자료](📘%20Azure%20기반%20생성형%20AI%20MVP프로젝트%20제안서.docx)
